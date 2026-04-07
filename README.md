@@ -10,17 +10,7 @@ Analytics & Data: Python · SQL · Machine Learning · Tableau · Power BI · Da
 
 Marketing: Google Ads · Meta Ads · SEO/PPC · A/B Testing · Email Marketing · Forecasting · Customer Segmentation
 
-## 📌 Featured Project
-
-Customer Lifetime Value Prediction Model
-
-- Built a 3-year CLV prediction model for a major European sports retailer
-
-- - Processed 1M+ customer records using regression and clustering in Python
- 
-  - - Validated model outputs through rigorous accuracy checks
-   
-    - - Translated findings into strategic recommendations for acquisition and retention investment
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Jim1202)
 
 
 ## 🌍 Languages
