@@ -2,7 +2,7 @@
 
 Marketing Analytics professional with 4+ years of experience and an MSc in Business Analytics & Data Science (Advanced AI Concentration) from IE University, Madrid.
 
-I combine hands-on marketing execution with analytical depth — translating data into decisions that drive revenue, growth, and measurable business impact.
+I combine hands-on marketing execution with analytical depth, translating data into decisions that drive revenue, growth, and measurable business impact.
 
 ---
 
@@ -24,3 +24,11 @@ French (Native) · English (Native) · Spanish (Intermediate)
 
 - LinkedIn: [linkedin.com/in/jimvincent1202](https://linkedin.com/in/jimvincent1202)
 - Email: jimtheausm@gmail.com
+
+- ## 🔥 FUN talk
+
+- Sailing (anykind)
+- Skiing
+- any sports really
+- Food finds
+- a bit of travel
