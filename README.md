@@ -25,7 +25,9 @@ French (Native) · English (Native) · Spanish (Intermediate)
 - LinkedIn: [linkedin.com/in/jimvincent1202](https://linkedin.com/in/jimvincent1202)
 - Email: jimtheausm@gmail.com
 
-- ## 🔥 FUN talk
+---
+
+## 🔥 FUN talk
 
 - Sailing (anykind)
 - Skiing
