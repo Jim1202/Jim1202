@@ -1,6 +1,6 @@
 # Hi, It's Jim👋
 
-Marketing Analytics professional with 4+ years of experience and an MSc in Business Analytics & Data Science (Advanced AI Concentration) from IE University, Madrid.
+AI Marketing Analytics professional with 4+ years of experience and an MSc in Business Analytics & Data Science (Advanced AI Concentration) from IE University, Madrid.
 
 I combine hands-on marketing execution with analytical depth, translating data into decisions that drive revenue, growth, and measurable business impact.
 
