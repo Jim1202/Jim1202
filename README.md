@@ -1,3 +1,8 @@
+## 🚧 GitHub — Work in Progress
+
+I'm currently building it so please give me a bit of time, some projects available under here.
+
+
 # Hi, It's Jim👋
 
 AI Marketing Analytics professional with 4+ years of experience and an MSc in Business Analytics & Data Science (Advanced AI Concentration) from IE University, Madrid.
