@@ -1,9 +1,7 @@
 
-# Hi, It's Jim👋
+# Welcome👋
 
-AI Marketing Analytics professional with 4+ years of experience and an MSc in Business Analytics & Data Science (Advanced AI Concentration) from IE University, Madrid.
-
-I combine hands-on marketing execution with analytical depth, translating data into decisions that drive revenue, growth, and measurable business impact.
+Grew up in France, moved to New Zealand to study, picked up a Commerce degree from the University of Auckland, then spent a few years actually doing the work as a Marketing Manager. Used a gap year to make my way back to Europe, and decided to double down on the technical side while I was at it. Completed an MSc in Business Analytics and Data Science (Advanced AI Concentration) at IE University in Madrid. Now combining the commercial experience with the analytical toolkit: Python, SQL, machine learning, and BI.
 
 ---
 
