@@ -1,7 +1,3 @@
-## 🚧 GitHub — Work in Progress
-
-I'm currently building it so please give me a bit of time, some projects available under here.
-
 
 # Hi, It's Jim👋
 
@@ -39,3 +35,9 @@ French (Native) · English (Native) · Spanish (Intermediate)
 - any sports really
 - Food finds
 - a bit of travel
+
+- ## 🚧 GitHub — Work in Progress
+
+I'm currently building it so please give me a bit of time, some projects available under here.
+
+
