@@ -1,7 +1,7 @@
 
 # Welcome👋
 
-Grew up in France, moved to New Zealand to study, picked up a Commerce degree from the University of Auckland, then spent a few years actually doing the work as a Marketing Manager. Used a gap year to make my way back to Europe, and decided to double down on the technical side while I was at it. Completed an MSc in Business Analytics and Data Science (Advanced AI Concentration) at IE University in Madrid. Now combining the commercial experience with the analytical toolkit: Python, SQL, machine learning, and BI.
+Grew up in France, moved to New Zealand to study, got my bachelor from the University of Auckland, then spent a few years working as Marketing Manager for a retail company in NZ. After 7 years in New Zealand i wanted to move back to Europe, and decided to double down on the technical side while I was at it. Completed an MSc in Business Analytics and Data Science (Advanced AI Concentration) at IE University in Madrid. Now combining the commercial experience with the analytical toolkit: Python, SQL, machine learning, BI and more.
 
 ---
 
